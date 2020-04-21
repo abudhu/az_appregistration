@@ -10,7 +10,9 @@ Azure Automation Powershell Runbook.  Enumerate all Azure AD Application Registr
 * Azure Subscription
 * Azure Automation Account
 	* Azure RunAs Account Enabled
-* Azure RunBook Account Permissions to AD
+* Azure RunBook Account Permissions:
+	* To Azure AD
+	* To Azure KeyVault (Optional - For Sending Emails)
 * Azure Powershell Modules
 	* Az.Accounts
 	* Az.KeyVault (Optional)

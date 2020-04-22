@@ -19,7 +19,7 @@ Azure Automation Powershell Runbook.  Enumerate all Azure AD Application Registr
 	* Az.Resources
 	* Azure
 	* AzureAD
-* Azure O365 / Azure EventGrid (Optional - For Sending Emails)
+* Azure O365 / Azure SendGrid (Optional - For Sending Emails)
 
 ## Installation
 
